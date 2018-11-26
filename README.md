@@ -23,3 +23,4 @@ Set of questions I like
 7. How do you automate resources in Azure?
 8. How do you alert when something is down?
 9. Can you monitor billing information?
+10. What is the role of the architect in your organization? 
