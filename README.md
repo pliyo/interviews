@@ -13,3 +13,13 @@ Set of questions I like
 6. Tell us your experience with containers and kubernetes.
 7. Draw a diagram of the architecture.
 
+# Azure and Cloud related.
+1. What is your experience working with Azure? Which types of services did you manage in the past? PAAS? IAAS?
+2. In VMS: Can you tell us differences between fault domains and update domains?
+3. In queues: Can you tell us about Service Bus vs Event hubs?
+4. In queues: Can you tell us differnece between Service Bus Queues and Storage Queues?
+5. What is your experience working with microservices?
+6. Can you tell us patterns of working with them?
+7. How do you automate resources in Azure?
+8. How do you alert when something is down?
+9. Can you monitor billing information?
