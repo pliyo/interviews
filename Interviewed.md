@@ -17,3 +17,4 @@
 7. How do you make sure your team learns?
 8. What do you want to learn from now until you join [X]
 9. What is the last thing that you learnt and how did you go about it?
+10. How do you define quality?
